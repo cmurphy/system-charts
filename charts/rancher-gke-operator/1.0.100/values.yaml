@@ -3,8 +3,8 @@ global:
 
 gkeOperator:
   image:
-    repository: rancher/gke-operator
-    tag: v1.0.1-rc1
+    repository: cmurpheus/gke-operator
+    tag: test
 
 httpProxy: ""
 httpsProxy: ""
